@@ -1,0 +1,8 @@
+var desa ={
+"type": "FeatureCollection",
+"name": "Indo_Desa_region [Selection]",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DESA": "Mendika", "KODE": "", "KECAMATAN": "Damai", "KABUPATEN": "Kutai", "PROPINSI": "Kalimanta", "STATUS_IDT": "Non IDT", "STATUS_KOT": "Desa", "STATUS_HUK": "Definitif", "SUMBER_AIR": 6, "IDT_94_95": "Non IDT", "IDT_95_96": "Non IDT", "KLASIFIKAS": "Swakarsa", "TERMASUK_D": "Dataran Tinggi", "LUAS_WILAY": 4328, "SUMBER_PEN": "Pertanian", "SUB_SEKTOR": "Tanaman Pangan", "KEMATIAN_B": 0, "KEMATIAN": 2, "BANYAKNYA_": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 115.65738108, -0.39815199, 0.0 ], [ 115.657173, -0.38871702, 0.0 ], [ 115.657781039999989, -0.38081304, 0.0 ], [ 115.65999504, -0.37111401, 0.0 ], [ 115.663619879999985, -0.35586504, 0.0 ], [ 115.66477404, -0.35238204, 0.0 ], [ 115.66751004, -0.35223696, 0.0 ], [ 115.67600316, -0.35213103, 0.0 ], [ 115.68306888, -0.35073198, 0.0 ], [ 115.694380079999988, -0.35253, 0.0 ], [ 115.70028516, -0.35495604, 0.0 ], [ 115.707885119999986, -0.35729199, 0.0 ], [ 115.71421716, -0.35989299, 0.0 ], [ 115.700549039999984, -0.37307898, 0.0 ], [ 115.69620708, -0.37896399, 0.0 ], [ 115.67769012, -0.40405896, 0.0 ], [ 115.665629039999985, -0.42020703, 0.0 ], [ 115.66047096, -0.41284098, 0.0 ], [ 115.658544959999986, -0.40849299, 0.0 ], [ 115.65742212, -0.39999699, 0.0 ], [ 115.65738108, -0.39815199, 0.0 ] ] ] } }
+]
+}
